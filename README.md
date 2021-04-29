@@ -1,4 +1,30 @@
-# Getting Started with Create React App
+# Broker Referrals
+
+KindHealth sometimes receives referrals from entities called Brokers, whose job it is to connect potential customers/clients to insurance products they can buy in return for a small fee.
+
+## Requirements
+
+You need to have the following services installed in your computer:
+
+- node > 8
+
+## Tech Stack
+
+- React - library for user interfaces creation
+- SCSS - css preprocessor
+- RCA - React boilerplate
+
+## Roadmap
+
+- [x] Basic functionality
+- [x] Sorting
+- [x] Filter
+- [ ] Add new users
+- [ ] Move variables to env variables
+- [ ] Clean up the code
+- [ ] Tests
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
