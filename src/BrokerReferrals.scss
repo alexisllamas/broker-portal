@@ -1,0 +1,30 @@
+.broker-referrals {
+  .referrals-info {
+    display: flex;
+    width: 100%;
+    background-color: rgb(51, 64, 84);
+    color: #fff;
+    margin-bottom: 40px;
+
+    .referrals-info-item {
+      flex: 1;
+      text-align: center;
+      border-right: 1px solid white;
+      padding: 30px 0;
+
+      &:last-child {
+        border-right: none;
+      }
+
+      label {
+        font-size: 12px;
+      }
+
+      p {
+        margin: 0;
+        font-size: 50px;
+        font-weight: bold;
+      }
+    }
+  }
+}
